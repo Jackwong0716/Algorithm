@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d8bdfae-7a64-43f6-9285-84243502ec3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/AB$Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/AB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/AB问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/AB问题.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/src/AB问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/AB问题.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +33,9 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="242X5k5DUUPnFIH2luo3JzgxNXt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -55,23 +52,65 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.AB问题">
-    <configuration name="数列排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数列排序" />
+  <component name="RunManager" selected="Application.高精度加法">
+    <configuration name="序列求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="序列求和" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AB$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB$Main" />
+    <configuration name="高精度加法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="高精度加法" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AB问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB问题" />
+    <configuration name="圆的面积精度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="圆的面积精度" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="阶乘计算" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="阶乘计算" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci数列" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="特殊回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="特殊回文数" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="杨辉三角" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="杨辉三角" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字母图形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字母图形" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="十六进制转十进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="十六进制转十进制" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,13 +118,6 @@
     </configuration>
     <configuration name="十六进制转八进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="十六进制转八进制" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,10 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AB问题" />
-        <item itemvalue="Application.数列排序" />
-        <item itemvalue="Application.AB$Main" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.高精度加法" />
+        <item itemvalue="Application.阶乘计算" />
+        <item itemvalue="Application.序列求和" />
+        <item itemvalue="Application.圆的面积精度" />
+        <item itemvalue="Application.Fibonacci数列" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +154,9 @@
       <updated>1642829473769</updated>
       <workItem from="1642829475051" duration="235000" />
       <workItem from="1642829771720" duration="30817000" />
-      <workItem from="1643349776241" duration="1915000" />
+      <workItem from="1643349776241" duration="3688000" />
+      <workItem from="1643380701519" duration="12037000" />
+      <workItem from="1643463229214" duration="15178000" />
     </task>
     <servers />
   </component>
