@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4d8bdfae-7a64-43f6-9285-84243502ec3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice/高精度加法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/高精度加法.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/总结" beforeDir="false" afterPath="$PROJECT_DIR$/practice/总结" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/完美的代价.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/完美的代价.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice/最大公约数和最小公倍数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice/最大公约数和最小公倍数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/完美的代价.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/完美的代价.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/最大公约数和最小公倍数.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/最大公约数和最小公倍数.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Application.完美的代价">
+  <component name="RunManager" selected="Application.时间转换">
     <configuration name="最大公约数和最小公倍数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="最大公约数和最小公倍数" />
       <module name="practice" />
@@ -60,50 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="芯片测试2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="芯片测试2" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="完美的代价" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="完美的代价" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fj的字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fj的字符串" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="完美的代价" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="完美的代价" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数的读法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数的读法" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="芯片测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="芯片测试" />
-      <module name="practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="特殊回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="特殊回文数" />
+    <configuration name="时间转换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="时间转换" />
       <module name="practice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,23 +97,79 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="矩阵乘法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="矩阵乘法" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="完美的代价" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="完美的代价" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="矩形面积交" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="矩形面积交" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分解质因数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="分解质因数" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="完美的代价" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="完美的代价" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数的读法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数的读法" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="芯片测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="芯片测试" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="特殊回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="特殊回文数" />
+      <module name="practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.完美的代价" />
+        <item itemvalue="Application.时间转换" />
         <item itemvalue="Application.最大公约数和最小公倍数" />
-        <item itemvalue="Application.Fj的字符串" />
-        <item itemvalue="Application.芯片测试2" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +187,8 @@
       <workItem from="1643380701519" duration="12037000" />
       <workItem from="1643463229214" duration="65122000" />
       <workItem from="1644299629480" duration="5646000" />
-      <workItem from="1644398510307" duration="3099000" />
+      <workItem from="1644398510307" duration="13797000" />
+      <workItem from="1644644764005" duration="3027000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 //对撞指针,对称问题，对撞指针。
+//两个for循环，分别从两边的指针。end作为辅助指针。
 public class 完美的代价 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
