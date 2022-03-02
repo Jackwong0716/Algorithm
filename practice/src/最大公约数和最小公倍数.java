@@ -17,6 +17,7 @@ public class 最大公约数和最小公倍数 {
     public static int getGongyue(int a,int b){
         int t;
         while (b != 0){   //b != 0就是最后的结束状态。
+            //t = Math.abs(a - b); 这样也可以
             t = a % b;  //这个求余，实际代表了一个减损
             a = b;
             b = t;

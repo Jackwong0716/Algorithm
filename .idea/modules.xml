@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2020蓝桥/2020蓝桥.iml" filepath="$PROJECT_DIR$/2020蓝桥/2020蓝桥.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithm.iml" filepath="$PROJECT_DIR$/.idea/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/一统算法/一统算法.iml" filepath="$PROJECT_DIR$/一统算法/一统算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/历届真题-蓝桥/历届真题-蓝桥.iml" filepath="$PROJECT_DIR$/历届真题-蓝桥/历届真题-蓝桥.iml" />
     </modules>
   </component>
 </project>
